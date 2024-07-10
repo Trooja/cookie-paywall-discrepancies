@@ -1,93 +1,93 @@
-Website,Category,Country
-abc.es,News,Spain
-abendzeitung-muenchen.de,News,Germany
-aerokurier.de,Transportation,Germany
-allgaeuer-zeitung.de,News,Germany
-allgemeine-zeitung.de,News,Germany
-atlantico.fr,News,France
-autlook.at,Business,Austria
-autoservice.co.at,Transportation,Austria
-bgland24.de,News,Germany
-bild.de,News,Germany
-boyens-medien.de,News,Germany
-braunschweiger-zeitung.de,News,Germany
-capital.de,News,Germany
-cavallo.de,Business,Germany
-chiemgau24.de,News,Germany
-corriere.it,News,Italy
-deichstube.de,Sports,Germany
-dieharke.de,News,Germany
-dispo.cc,Computers & Technology,France
-dnn.de,News,Germany
-donaukurier.de,News,Germany
-echo-online.de,News,Germany
-elektropraxis.at,News,Austria
-elpais.com,News,Spain
-factorynet.at,Computers & Technology,Austria
-flugrevue.de,Travel,Germany
-geo.de,Leisure & Recreation,Germany
-gnz.de,News,Germany
-goettinger-tageblatt.de,News,Germany
-goslarsche.de,News,Germany
-haz.de,News,Germany
-heise.de,Computers & Technology,Germany
-hildesheimer-allgemeine.de,News,Germany
-hlk.co.at,News,Austria
-industriemagazin.at,News,Austria
-innsalzach24.de,Entertainment,Germany
-kn-online.de,News,Germany
-krone.at,News,Austria
-ksta.de,News,Germany
-landeszeitung.de,News,Germany
-lastampa.it,News,Italy
-lavanguardia.com,News,Spain
-lemonde.fr,News,France
-lepoint.fr,News,France
-lequipe.fr,Sports,France
-liberation.fr,News,France
-ln-online.de,News,Germany
-lvz.de,News,Germany
-mainpost.de,News,Germany
-mangfall24.de,News,Germany
-maz-online.de,News,Germany
-milanofinanza.it,News,Italy
-mittelbayerische.de,News,Germany
-mittelhessen.de,News,Germany
-mopo.de,News,Germany
-motorradonline.de,Leisure & Recreation,Germany
-moz.de,News,Germany
-neuepresse.de,News,Germany
-nn.de,News,Germany
-nrz.de,News,Germany
-op-marburg.de,News,Germany
-ostsee-zeitung.de,News,Germany
-ovb-online.de,News,Germany
-paz-online.de,News,Germany
-pcgameshardware.de,Computers & Technology,Germany
-pnp.de,News,Germany
-promobil.de,General,Germany
-raspberry-pi-geek.de,Computers & Technology,Germany
-rheinpfalz.de,News,Germany
-rnd.de,News,Germany
-rnz.de,News,Germany
-rosenheim24.de,News,Germany
-saechsische.de,News,Germany
-sciencesetavenir.fr,News,France
-siegener-zeitung.de,News,Germany
-sn-online.de,News,Germany
-solidbau.at,Business,Austria
-stern.de,News,Germany
-stimme.de,News,Germany
-stol.it,News,Italy
-sudouest.fr,News,France
-sueddeutsche.de,News,Germany
-tageblatt.de,News,Germany
-traktuell.at,Computers & Technology,Austria
-volksstimme.de,News,Germany
-wasserburg24.de,News,Germany
-waz-online.de,News,Germany
-waz.de,News,Germany
-wormser-zeitung.de,Search Engines & Portals,Germany
-wp.de,News,Germany
-wr.de,News,Germany
-zeit.de,News,Germany
+website,country,category,cmp,smp
+abc.es,spain,News,Didomi,n/a
+abendzeitung-muenchen.de,germany,n/a,Traffective GmbH,n/a
+aerokurier.de,germany,Transportation,"Sourcepoint Technologies, Inc.",n/a
+allgaeuer-zeitung.de,germany,n/a,Usercentrics.com,n/a
+allgemeine-zeitung.de,germany,n/a,consentmanager.net,n/a
+atlantico.fr,france,News,iubenda,n/a
+autlook.at,austria,Business,consentmanager.net,contentpass
+autoservice.co.at,austria,Transportation,consentmanager.net,contentpass
+bgland24.de,germany,News,Traffective GmbH,freechoice
+bild.de,germany,News,Axel Springer Deutschland GmbH,n/a
+boyens-medien.de,germany,n/a,Traffective GmbH,freechoice
+braunschweiger-zeitung.de,germany,News,consentmanager.net,contentpass
+capital.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+cavallo.de,germany,Business,"Sourcepoint Technologies, Inc.",n/a
+chiemgau24.de,germany,News,Traffective GmbH,freechoice
+corriere.it,italy,News,RCS MediaGroup S.p.A.,n/a
+deichstube.de,germany,n/a,Traffective GmbH,freechoice
+dieharke.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+dispo.cc,france,Computers & Technology,consentmanager.net,contentpass
+dnn.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+donaukurier.de,germany,News,Traffective GmbH,freechoice
+echo-online.de,germany,News,consentmanager.net,n/a
+elektropraxis.at,austria,n/a,consentmanager.net,contentpass
+elpais.com,spain,News,Didomi,n/a
+factorynet.at,austria,n/a,consentmanager.net,contentpass
+flugrevue.de,germany,Travel,"Sourcepoint Technologies, Inc.",n/a
+geo.de,germany,Leisure & Recreation,"Sourcepoint Technologies, Inc.",n/a
+gnz.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+goettinger-tageblatt.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+goslarsche.de,germany,News,consentmanager.net,contentpass
+haz.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+heise.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+hildesheimer-allgemeine.de,germany,News,consentmanager.net,contentpass
+hlk.co.at,austria,n/a,consentmanager.net,contentpass
+industriemagazin.at,austria,News,consentmanager.net,contentpass
+innsalzach24.de,germany,Entertainment,Traffective GmbH,freechoice
+kn-online.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+krone.at,austria,News,Didomi,n/a
+ksta.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+landeszeitung.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+lastampa.it,italy,News,iubenda,n/a
+lavanguardia.com,spain,News,Didomi,n/a
+lemonde.fr,france,News,Société Éditrice du Monde,n/a
+lepoint.fr,france,News,"Sourcepoint Technologies, Inc.",n/a
+lequipe.fr,france,Sports,Didomi,n/a
+liberation.fr,france,News,"Sourcepoint Technologies, Inc.",n/a
+ln-online.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+lvz.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+mainpost.de,germany,News,Usercentrics.com,n/a
+mangfall24.de,germany,News,Traffective GmbH,freechoice
+maz-online.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+milanofinanza.it,italy,News,ALZ Software Ltd (trading as Clickio),n/a
+mittelbayerische.de,germany,News,Traffective GmbH,freechoice
+mittelhessen.de,germany,News,consentmanager.net,n/a
+mopo.de,germany,News,Traffective GmbH,freechoice
+motorradonline.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+moz.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+neuepresse.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+nn.de,germany,n/a,consentmanager.net,n/a
+nrz.de,germany,News,consentmanager.net,contentpass
+op-marburg.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+ostsee-zeitung.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+ovb-online.de,germany,News,Traffective GmbH,freechoice
+paz-online.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+pcgameshardware.de,germany,n/a,"Sourcepoint Technologies, Inc.",n/a
+pnp.de,germany,News,Traffective GmbH,freechoice
+promobil.de,germany,General,"Sourcepoint Technologies, Inc.",n/a
+raspberry-pi-geek.de,germany,n/a,"Sourcepoint Technologies, Inc.",contentpass
+rheinpfalz.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+rnd.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+rnz.de,germany,News,Traffective GmbH,freechoice
+rosenheim24.de,germany,News,Traffective GmbH,freechoice
+saechsische.de,germany,News,Didomi,contentpass
+sciencesetavenir.fr,france,News,Didomi,n/a
+siegener-zeitung.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+sn-online.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+solidbau.at,austria,Business,consentmanager.net,contentpass
+stern.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+stimme.de,germany,News,consentmanager.net,contentpass
+stol.it,italy,n/a,"Sourcepoint Technologies, Inc.",n/a
+sudouest.fr,france,News,Didomi,n/a
+sueddeutsche.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+tageblatt.de,germany,News,consentmanager.net,contentpass
+traktuell.at,austria,Computers & Technology,consentmanager.net,contentpass
+volksstimme.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+wasserburg24.de,germany,n/a,Traffective GmbH,freechoice
+waz-online.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
+waz.de,germany,News,consentmanager.net,contentpass
+wormser-zeitung.de,germany,Search Engines & Portals,consentmanager.net,n/a
+wp.de,germany,n/a,consentmanager.net,contentpass
+wr.de,germany,News,consentmanager.net,contentpass
+zeit.de,germany,News,"Sourcepoint Technologies, Inc.",n/a
