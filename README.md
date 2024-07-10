@@ -1,6 +1,6 @@
 # Repository for the results from thesis Assessing discrepancies in cross-browser paywalls detection.
 
-This repository contains the aggregated results form the thesis Assessing discrepancies in cross-browser paywalls detection performed by Andreas Stenwreth and Simon Tang at Chalmers University of Technology from Mars until August 2024. 
+This repository contains the aggregated results form the thesis Assessing discrepancies in cross-browser paywalls detection performed by Andreas Stenwreth and Simon Täng at Chalmers University of Technology from Mars until August 2024. 
 
 The following files are included:
 
@@ -22,6 +22,8 @@ For each website this file contain:
 - smp      - the Subscription Management Platform used (either Contentpass or Freechoice)
 - cmp      - the Consent Management Platform used.
 
+### no-paywalls.csv
+This file contain 200 websites which was manually verified to not present a cookie paywall when accessed from Chorme on Linux from Sweden on June 19 2024. 
 
 ### validation.csv
 This file contain a random subset of all studied websites used for manual inspection. Manual inspection was performed by comparing the developed crawler programs output with the screenshot taken during the crawl for each website and combination of web browser, operating system and geocraphic location. 
@@ -29,3 +31,31 @@ For each website this file contain:
 
 - ok   - 1 if the output and screenshot is consistent for of all combinations else 0.
 - note - if not ok, the note outlines which combinations were incorrect. 
+
+# Software
+
+Software used was [Selenium](https://www.selenium.dev/documentation/) and [Selenium Grid](https://www.selenium.dev/documentation/grid/) version 4.21 and [Appium](https://appium.io/docs/en/latest/#) version 2.9.
+
+The following list includes all operating systems and web browsers used during the thesis. 
+All browsers ran in their respective privacy mode and allowing all third party cookies.
+
+- **Linux: Debian GNU/Linux 12 (bookworm)**
+    - Firefox 115.12.0esr
+    - Chrome 126.0.6478.55
+    - Edge  125.0.2535.92
+- **Windows: 11 Home 23H2**
+    - Firefox 127.0
+    - Chrome 126.0.6478.62
+    - Edge  126.0.2592.56
+- **MacOS: Sonoma Version 14.5**
+    - Firefox 127.0
+    - Chrome 125.0.6422.142
+    - Edge 126.0.2592.56
+    - Safari 17.5
+- **IOS: 17.5**
+    - Safari 17.5
+- **Android: 10 52.1.A.3.137**
+    - Firefox 127,0
+    - Chrome 126.0.6478.55
+
+
