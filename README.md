@@ -1,6 +1,6 @@
 # Repository for the results from the thesis Assessing discrepancies in cross-browser paywalls detection.
 
-This repository contains the aggregated results from the thesis Assessing discrepancies in cross-browser paywalls detection performed by Andreas Stenwreth and Simon Täng at Chalmers University of Technology from Mars until August 2024. 
+This repository contains the aggregated results from the thesis Assessing discrepancies in cross-browser paywalls detection performed by Andreas Stenwreth and Simon Täng at Chalmers University of Technology from March until August 2024. 
 
 The following files are included:
 
@@ -14,7 +14,7 @@ For each website, this file contains:
 - cmp      - the Consent Management Platform used.
 
 ### double-paywalls.csv
-This file contains a subset of all studied websites, which, in addition to presenting a cookie paywall, also present a hard or soft paywall in order to access all content on the website.
+This file contains a subset of all studied websites, which, in addition to presenting a cookie paywall present a hard or soft paywall in order to prevent access to content on the website.
 For each website, this file contains:
 
 - country  - the country in which the domain is registered.
