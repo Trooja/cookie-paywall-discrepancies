@@ -1,6 +1,6 @@
-# Repository for the results from the thesis Assessing discrepancies in cross-browser paywalls detection.
+# Repository for the results from the thesis Cookie Paywall Discrepancies - Assessing differences between operating systems, web browsers and geographic locations. 
 
-This repository contains the aggregated results from the thesis Assessing discrepancies in cross-browser paywalls detection performed by Andreas Stenwreth and Simon Täng at Chalmers University of Technology from March until August 2024. 
+This repository contains the aggregated results from the thesis Cookie Paywall Discrepancies - Assessing differences between operating systems, web browsers and geographic locations performed by Andreas Stenwreth and Simon Täng at Chalmers University of Technology from March until August 2024. 
 
 The following files are included:
 
