@@ -1,6 +1,7 @@
-# Repository for the results from the thesis Cookie Paywall Discrepancies - Assessing differences between operating systems, web browsers and geographic locations. 
+# Repository for the results from the study *To Be or Not to Be (in the EU): Measurement of Discrepancies Presented in Cookie Paywalls*.
 
-This repository contains the aggregated results from the thesis Cookie Paywall Discrepancies - Assessing differences between operating systems, web browsers and geographic locations performed by Andreas Stenwreth and Simon Täng at Chalmers University of Technology from March until August 2024. 
+This repository contains the aggregated results presented in the study *To Be or Not to Be (in the EU): Measurement of Discrepancies Presented
+in Cookie Paywalls* by Andreas Stenwreth, Simon Täng and Victor Morel at Chalmers University of Technology from March until August 2024. 
 
 The following files are included:
 
